@@ -2,85 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/pt/</loc>
+    <loc>https://vanfarock.github.io/blog/pt/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/en/"
+                href="https://vanfarock.github.io/blog/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/"
+                href="https://vanfarock.github.io/blog/pt/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt/posts/2---derivadas/</loc>
+    <loc>https://vanfarock.github.io/blog/pt/posts/2---derivadas/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt/posts/1---limites/</loc>
+    <loc>https://vanfarock.github.io/blog/pt/posts/1---limites/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt/posts/</loc>
-    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt/posts/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt/about/</loc>
+    <loc>https://vanfarock.github.io/blog/pt/posts/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/en/about/"
+                href="https://vanfarock.github.io/blog/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/about/"
+                href="https://vanfarock.github.io/blog/pt/posts/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt/categories/</loc>
+    <loc>https://vanfarock.github.io/blog/pt/about/</loc>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/en/categories/"
+                href="https://vanfarock.github.io/blog/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/categories/"
+                href="https://vanfarock.github.io/blog/pt/about/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt/404.html</loc>
+    <loc>https://vanfarock.github.io/blog/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/en/404.html"
+                href="https://vanfarock.github.io/blog/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/404.html"
+                href="https://vanfarock.github.io/blog/pt/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt/tags/</loc>
+    <loc>https://vanfarock.github.io/blog/pt/404.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/en/tags/"
+                href="https://vanfarock.github.io/blog/en/404.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/tags/"
+                href="https://vanfarock.github.io/blog/pt/404.html"
+                />
+  </url><url>
+    <loc>https://vanfarock.github.io/blog/pt/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://vanfarock.github.io/blog/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://vanfarock.github.io/blog/pt/tags/"
                 />
   </url>
 </urlset>

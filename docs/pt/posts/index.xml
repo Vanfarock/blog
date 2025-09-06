@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>//localhost:1313/pt/posts/</link>
+    <link>https://vanfarock.github.io/blog/pt/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/pt/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vanfarock.github.io/blog/pt/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cálculo 1 - Derivadas</title>
-      <link>//localhost:1313/pt/posts/2---derivadas/</link>
+      <link>https://vanfarock.github.io/blog/pt/posts/2---derivadas/</link>
       <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pt/posts/2---derivadas/</guid>
+      <guid>https://vanfarock.github.io/blog/pt/posts/2---derivadas/</guid>
       <description>&lt;p&gt;Em construção 🚧&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cálculo 1 - Limites</title>
-      <link>//localhost:1313/pt/posts/1---limites/</link>
+      <link>https://vanfarock.github.io/blog/pt/posts/1---limites/</link>
       <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pt/posts/1---limites/</guid>
+      <guid>https://vanfarock.github.io/blog/pt/posts/1---limites/</guid>
       <description>&lt;p&gt;De vez em quando volto a estudar matemática e apesar de lembrar os conceitos e ideias, parte da teoria acaba se perdendo. Esse post é um grande resumão sobre Limites. Nele vou falar algumas &lt;strong&gt;definições&lt;/strong&gt;, &lt;strong&gt;teoremas&lt;/strong&gt;, &lt;strong&gt;propriedades&lt;/strong&gt; e &lt;strong&gt;exemplos&lt;/strong&gt; sobre o assunto para futura revisão. Minha intenção é agrupar o assunto de uma forma simples e lógica, então mesmo se for sua primeira vez estudando sobre, pode valer a pena usar como fonte de ensino também.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,82 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/en/</loc>
+    <loc>https://vanfarock.github.io/blog/en/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/"
+                href="https://vanfarock.github.io/blog/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/en/"
+                href="https://vanfarock.github.io/blog/en/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/about/</loc>
+    <loc>https://vanfarock.github.io/blog/en/about/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/about/"
+                href="https://vanfarock.github.io/blog/pt/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/en/about/"
+                href="https://vanfarock.github.io/blog/en/about/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/posts/hello-world/</loc>
+    <loc>https://vanfarock.github.io/blog/en/posts/hello-world/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/en/posts/</loc>
+    <loc>https://vanfarock.github.io/blog/en/posts/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/posts/"
+                href="https://vanfarock.github.io/blog/pt/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/en/posts/"
+                href="https://vanfarock.github.io/blog/en/posts/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/categories/</loc>
+    <loc>https://vanfarock.github.io/blog/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/categories/"
+                href="https://vanfarock.github.io/blog/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/en/categories/"
+                href="https://vanfarock.github.io/blog/en/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/404.html</loc>
+    <loc>https://vanfarock.github.io/blog/en/404.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/404.html"
+                href="https://vanfarock.github.io/blog/pt/404.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/en/404.html"
+                href="https://vanfarock.github.io/blog/en/404.html"
                 />
   </url><url>
-    <loc>//localhost:1313/en/tags/</loc>
+    <loc>https://vanfarock.github.io/blog/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt/tags/"
+                href="https://vanfarock.github.io/blog/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/en/tags/"
+                href="https://vanfarock.github.io/blog/en/tags/"
                 />
   </url>
 </urlset>
