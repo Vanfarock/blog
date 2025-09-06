@@ -1,4 +1,3 @@
-baseURL = "/"
 theme = "terminal"
 publishDir = "docs"
 languageCode = "en-us"
@@ -7,6 +6,12 @@ defaultContentLanguageInSubdir = true
 disableLanguages = []
 linkedin = "https://www.linkedin.com/in/vinicius-manuel-martins-5010a7186/"
 github = "https://github.com/Vanfarock"
+
+[environments]
+  [environments.production]
+    baseURL = "https://vanfarock.github.io/blog/"
+  [environments.development]
+    baseURL = "http://localhost:1313/"
 
 [languages]
   [languages.en]
