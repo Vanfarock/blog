@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://vanfarock.github.io/blog/pt/</link>
+    <link>http://localhost:1313/blog/pt/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://vanfarock.github.io/blog/pt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/pt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cálculo 1 - Derivadas</title>
-      <link>https://vanfarock.github.io/blog/pt/posts/2---derivadas/</link>
+      <link>http://localhost:1313/blog/pt/posts/2---derivadas/</link>
       <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://vanfarock.github.io/blog/pt/posts/2---derivadas/</guid>
+      <guid>http://localhost:1313/blog/pt/posts/2---derivadas/</guid>
       <description>&lt;p&gt;Em construção 🚧&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cálculo 1 - Limites</title>
-      <link>https://vanfarock.github.io/blog/pt/posts/1---limites/</link>
+      <link>http://localhost:1313/blog/pt/posts/1---limites/</link>
       <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://vanfarock.github.io/blog/pt/posts/1---limites/</guid>
+      <guid>http://localhost:1313/blog/pt/posts/1---limites/</guid>
       <description>&lt;p&gt;De vez em quando volto a estudar matemática e apesar de lembrar os conceitos e ideias, parte da teoria acaba se perdendo. Esse post é um grande resumão sobre Limites. Nele vou falar algumas &lt;strong&gt;definições&lt;/strong&gt;, &lt;strong&gt;teoremas&lt;/strong&gt;, &lt;strong&gt;propriedades&lt;/strong&gt; e &lt;strong&gt;exemplos&lt;/strong&gt; sobre o assunto para futura revisão. Minha intenção é agrupar o assunto de uma forma simples e lógica, então mesmo se for sua primeira vez estudando sobre, pode valer a pena usar como fonte de ensino também.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sobre Mim</title>
-      <link>https://vanfarock.github.io/blog/pt/about/</link>
+      <link>http://localhost:1313/blog/pt/about/</link>
       <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://vanfarock.github.io/blog/pt/about/</guid>
+      <guid>http://localhost:1313/blog/pt/about/</guid>
       <description>&lt;p&gt;Em construção 🚧&lt;/p&gt;</description>
     </item>
     <item>
       <title>Página Não Encontrada</title>
-      <link>https://vanfarock.github.io/blog/pt/404.html</link>
+      <link>http://localhost:1313/blog/pt/404.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vanfarock.github.io/blog/pt/404.html</guid>
-      <description>&lt;h1 id=&#34;ops&#34;&gt;Ops!&lt;/h1&gt;&#xA;&lt;p&gt;A página que você está procurando não existe.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://vanfarock.github.io/blog/pt/&#34;&gt;Voltar para o início&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/pt/404.html</guid>
+      <description>&lt;h1 id=&#34;ops&#34;&gt;Ops!&lt;/h1&gt;&#xA;&lt;p&gt;A página que você está procurando não existe.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/pt/&#34;&gt;Voltar para o início&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

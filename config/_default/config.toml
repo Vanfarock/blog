@@ -34,18 +34,3 @@ readingTime = false
 Toc = false
 TocTitle = "Table of Contents"
 dateFormat = "2006-01-02"
-
-[[redirects]]
-from = "/"
-to = "/pt/"
-status = 302
-
-[[redirects]]
-from = "/about/"
-to = "/pt/about/"
-status = 302
-
-[[redirects]]
-from = "/posts/"
-to = "/pt/posts/"
-status = 302
