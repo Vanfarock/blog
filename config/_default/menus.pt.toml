@@ -1,17 +1,11 @@
 [[main]]
 identifier = "home"
 name = "Início"
-url = "/"
+url = "/pt/"
 weight = 1
-
-[[main]]
-identifier = "posts"
-name = "Posts"
-url = "/posts/"
-weight = 2
 
 [[main]]
 identifier = "about"
 name = "Sobre"
-url = "/about/"
+url = "/pt/about/"
 weight = 3

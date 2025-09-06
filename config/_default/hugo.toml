@@ -3,6 +3,7 @@ theme = "terminal"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
+disableLanguages = []
 linkedin = "https://www.linkedin.com/in/vinicius-manuel-martins-5010a7186/"
 github = "https://github.com/Vanfarock"
 
@@ -19,26 +20,31 @@ github = "https://github.com/Vanfarock"
     weight = 2
 
 [params]
+math = "mathjax"
 contentTypeName = "posts"
 showMenuItems = 3
 showLanguageSelector = true
 fullWidthTheme = false
 centerTheme = true
 autoCover = true
-showLastUpdated = true
+showLastUpdated = false
 updatedDatePrefix = "Updated"
 readingTime = false
 Toc = false
 TocTitle = "Table of Contents"
 dateFormat = "2006-01-02"
 
+[[redirects]]
+from = "/"
+to = "/pt/"
+status = 302
 
+[[redirects]]
+from = "/about/"
+to = "/pt/about/"
+status = 302
 
-# [languages.en.params.logo]
-# logoText = "Vini"
-# logoHomeLink = "/en"
-
-# [languages.pt.params.logo]
-# logoText = "Vini"
-# logoHomeLink = "/pt"
-
+[[redirects]]
+from = "/posts/"
+to = "/pt/posts/"
+status = 302
