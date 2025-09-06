@@ -54,7 +54,7 @@ $$ \int_0^1 x^2 dx = \frac{1}{3} $$
   <link rel="stylesheet" href="//localhost:1313/css/syntax.min.a0773cce9310cb6d8ed23e50f005448facf29a53001b57e038828daa466b25c0.css">
 
   
-  <link rel="stylesheet" href="//localhost:1313/css/terminal.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css">
+  <link rel="stylesheet" href="//localhost:1313/css/terminal.min.3bad87d960b0dc7ba0cc355b86787cfd54778b1c16b1c0f6a82f685ee01716f7.css">
 
   
   <link rel="stylesheet" href="//localhost:1313/css/terms.min.b81791663c3790e738e571cdbf802312390d30e4b1d8dc9d814a5b5454d0ac11.css">
@@ -103,17 +103,15 @@ $$ \int_0^1 x^2 dx = \frac{1}{3} $$
 
 
 
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>
-<script>
-window.MathJax = {
-  tex: {
-    inlineMath: [['$', '$']],
-    displayMath: [['$$','$$']]
-  },
-  svg: { fontCache: 'global' }
-};
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
 </script>
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
 </head>
 <body>
 
@@ -197,7 +195,6 @@ window.MathJax = {
 
   
 </header>
-
 
   <div class="content">
     
