@@ -1,5 +1,6 @@
 baseURL = "/"
 theme = "terminal"
+publishDir = "docs"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
