@@ -1,0 +1,44 @@
+baseURL = "/"
+theme = "terminal"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+linkedin = "https://www.linkedin.com/in/vinicius-manuel-martins-5010a7186/"
+github = "https://github.com/Vanfarock"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    contentDir = "content/en"
+    languageCode = "en-us"
+    weight = 1
+  [languages.pt]
+    languageName = "Português"
+    contentDir = "content/pt"
+    languageCode = "pt-br"
+    weight = 2
+
+[params]
+contentTypeName = "posts"
+showMenuItems = 3
+showLanguageSelector = true
+fullWidthTheme = false
+centerTheme = true
+autoCover = true
+showLastUpdated = true
+updatedDatePrefix = "Updated"
+readingTime = false
+Toc = false
+TocTitle = "Table of Contents"
+dateFormat = "2006-01-02"
+
+
+
+# [languages.en.params.logo]
+# logoText = "Vini"
+# logoHomeLink = "/en"
+
+# [languages.pt.params.logo]
+# logoText = "Vini"
+# logoHomeLink = "/pt"
+

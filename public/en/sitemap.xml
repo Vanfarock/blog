@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/en/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
-                href="//localhost:1313/pt/"
+                hreflang="pt-br"
+                href="/pt/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/"
+                hreflang="en-us"
+                href="/en/"
                 />
   </url><url>
-    <loc>//localhost:1313/posts/hello-world/</loc>
+    <loc>/en/posts/hello-world/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
-                href="//localhost:1313/pt/posts/hello-world/"
+                hreflang="pt-br"
+                href="/pt/posts/hello-world/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/posts/hello-world/"
+                hreflang="en-us"
+                href="/en/posts/hello-world/"
                 />
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/en/posts/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
-                href="//localhost:1313/pt/posts/"
+                hreflang="pt-br"
+                href="/pt/posts/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/posts/"
-                />
-  </url><url>
-    <loc>//localhost:1313/404/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="//localhost:1313/pt/404/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/404/"
+                hreflang="en-us"
+                href="/en/posts/"
                 />
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
-                href="//localhost:1313/pt/categories/"
+                hreflang="pt-br"
+                href="/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/categories/"
+                hreflang="en-us"
+                href="/en/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/404.html</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
-                href="//localhost:1313/pt/tags/"
+                hreflang="pt-br"
+                href="/404.html"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/"
+                hreflang="en-us"
+                href="/404.html"
+                />
+  </url><url>
+    <loc>/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="/en/tags/"
                 />
   </url>
 </urlset>

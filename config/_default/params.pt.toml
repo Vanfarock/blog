@@ -1,0 +1,18 @@
+subtitle = ""
+owner = "Vinícius Manuel Martins"
+keywords = ""
+copyright = "© {{ now.Year }} Vinícius Manuel Martins"
+menuMore = "Exibir mais"
+readMore = "Ler mais"
+readOtherPosts = "Ler outros posts"
+newerPosts = "Posts mais recentes"
+olderPosts = "Posts mais antigos"
+missingContentMessage = "Página não encontrada..."
+missingBackButtonLabel = "Voltar para a página inicial"
+minuteReadingTime = "minutos"
+words = "palavras"
+updatedDatePrefix = "Atualizado"
+
+[logo]
+logoText = "Vini"
+logoHomeLink = "/pt/"
