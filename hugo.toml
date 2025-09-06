@@ -1,0 +1,111 @@
+baseURL = "/"
+theme = "terminal"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+# Enable language-specific redirects
+[permalinks]
+  posts = "/:lang/posts/:slug/"
+  page = "/:lang/:slug/"
+
+# Language-specific 404 handling
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]
+
+[params]
+contentTypeName = "posts"
+showMenuItems = 3
+showLanguageSelector = true
+fullWidthTheme = false
+centerTheme = true
+autoCover = true
+showLastUpdated = true
+updatedDatePrefix = "Updated"
+readingTime = false
+Toc = false
+TocTitle = "Table of Contents"
+dateFormat = "2006-01-02"
+
+# Social media links
+linkedin = "https://www.linkedin.com/in/vinicius-manuel-martins-5010a7186/"
+github = "https://github.com/Vanfarock"
+
+[languages]
+[languages.en]
+languageName = "English"
+title = "Blog - Vinícius Manuel Martins"
+
+[languages.en.params]
+subtitle = ""
+owner = "Vinícius Manuel Martins"
+keywords = ""
+copyright = "© {{ now.Year }} Vinícius Manuel Martins"
+menuMore = "Show more"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+missingContentMessage = "Page not found..."
+missingBackButtonLabel = "Back to home page"
+minuteReadingTime = "min read"
+words = "words"
+
+[languages.en.params.logo]
+logoText = "Vini"
+logoHomeLink = "/en"
+
+[languages.en.menu]
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/en/about"
+[[languages.en.menu.main]]
+identifier = "showcase"
+name = "Showcase"
+url = "/en/showcase"
+[[languages.en.menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/en/contact"
+
+[languages.pt]
+languageName = "Português"
+title = "Blog - Vinícius Manuel Martins"
+
+[languages.pt.params]
+subtitle = ""
+owner = "Vinícius Manuel Martins"
+keywords = ""
+copyright = "© {{ now.Year }} Vinícius Manuel Martins"
+menuMore = "Exibir mais"
+readMore = "Ler mais"
+readOtherPosts = "Ler outros posts"
+newerPosts = "Posts mais recentes"
+olderPosts = "Posts mais antigos"
+missingContentMessage = "Página não encontrada..."
+missingBackButtonLabel = "Voltar para a página inicial"
+minuteReadingTime = "minutos"
+words = "palavras"
+updatedDatePrefix = "Atualizado"
+
+[languages.pt.params.logo]
+logoText = "Vini"
+logoHomeLink = "/pt"
+
+[languages.pt.menu]
+[[languages.pt.menu.main]]
+identifier = "about"
+name = "Sobre"
+url = "/pt/sobre"
+[[languages.pt.menu.main]]
+identifier = "showcase"
+name = "Exibição"
+url = "/pt/exibicao"
+[[languages.pt.menu.main]]
+identifier = "contact"
+name = "Contato"
+url = "/pt/contato"

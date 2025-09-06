@@ -1,0 +1,58 @@
+{{ define "main" }}
+  <div class="post">
+    <h1 class="post-title">404 — {{ $.Site.Params.missingContentMessage | default "Page not found..." }}</h1>
+
+    <div class="post-content">
+      <p>{{ if eq .Site.Language.Lang "pt" }}
+        A página que você está procurando não foi encontrada. 
+        {{ else }}
+        The page you are looking for was not found.
+        {{ end }}
+      </p>
+      
+      <p>{{ if eq .Site.Language.Lang "pt" }}
+        Você pode:
+        {{ else }}
+        You can:
+        {{ end }}
+      </p>
+      
+      <ul>
+        <li>
+          <a href="{{ "/" | absLangURL }}">
+            {{ if eq .Site.Language.Lang "pt" }}
+              ← Voltar para a página inicial
+            {{ else }}
+              ← Back to home page
+            {{ end }}
+          </a>
+        </li>
+        <li>
+          <a href="{{ "/posts" | absLangURL }}">
+            {{ if eq .Site.Language.Lang "pt" }}
+              Ver todos os posts
+            {{ else }}
+              View all posts
+            {{ end }}
+          </a>
+        </li>
+        <li>
+          <a href="{{ "/about" | absLangURL }}">
+            {{ if eq .Site.Language.Lang "pt" }}
+              Sobre mim
+            {{ else }}
+              About me
+            {{ end }}
+          </a>
+        </li>
+      </ul>
+      
+      <p>{{ if eq .Site.Language.Lang "pt" }}
+        Ou use o menu de navegação acima para encontrar o que procura.
+        {{ else }}
+        Or use the navigation menu above to find what you're looking for.
+        {{ end }}
+      </p>
+    </div>
+  </div>
+{{ end }}
