@@ -6,14 +6,21 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/pt/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Olá Mundo</title>
-      <link>//localhost:1313/pt/posts/hello-world/</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pt/posts/hello-world/</guid>
-      <description>&lt;p&gt;Esse é meu primeiro post em &lt;strong&gt;Português&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Exemplo de matemática: $E=mc^2$&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\int_0^1 x^2 dx = \frac{1}{3}&#xA;$$&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <title>Cálculo 1 - Derivadas</title>
+      <link>//localhost:1313/pt/posts/2---derivadas/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/posts/2---derivadas/</guid>
+      <description>&lt;p&gt;Em construção 🚧&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cálculo 1 - Limites</title>
+      <link>//localhost:1313/pt/posts/1---limites/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pt/posts/1---limites/</guid>
+      <description>&lt;p&gt;De vez em quando volto a estudar matemática e apesar de lembrar os conceitos e ideias, parte da teoria acaba se perdendo. Esse post é um grande resumão sobre Limites. Nele vou falar algumas &lt;strong&gt;definições&lt;/strong&gt;, &lt;strong&gt;teoremas&lt;/strong&gt;, &lt;strong&gt;propriedades&lt;/strong&gt; e &lt;strong&gt;exemplos&lt;/strong&gt; sobre o assunto para futura revisão. Minha intenção é agrupar o assunto de uma forma simples e lógica, então mesmo se for sua primeira vez estudando sobre, pode valer a pena usar como fonte de ensino também.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
